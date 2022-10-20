@@ -1,0 +1,2 @@
+# Network-Design-for-Library-and-Computer-Department
+ University has recently built the library and department buildings. These buildings will house a library, discussion rooms, a department office, lecture halls, lectures room, laboratories, a meeting room, and computer labs. The Objective of the Project is to design a computer network for these buildings of the University using the given requirements and with the optimum use of network IP addresses.
