@@ -53,6 +53,6 @@ Computers available at the department office can’t be accessed from the staff 
 #### Design and Documented by
 Sisila Jayamal Senevirathna.
 Faculty of Engineering,
-University Of Jaffan.
+University Of Jaffna.
 All Rights Reserved!
 
