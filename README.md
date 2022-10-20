@@ -42,3 +42,17 @@ Computers available at staff room can’t be accessed from the network Engineeri
 
 Computers available at the department office can’t be accessed from the staff room, network Engineering lab, department office, department meeting room, lecture halls, computer labs, Computer Vision and Machine Learning Lab, Microprocessor Lab, Technical Officers Rooms and the library.
 
+### VLAN Table.
+![image](https://user-images.githubusercontent.com/108692258/196896554-ab946180-9c0e-47ca-88bd-7bb936f805d0.png)
+
+### Assign IPs for Each VLANs
+![image](https://user-images.githubusercontent.com/108692258/196896758-1095ee0c-3b08-429f-a9e1-049b95a40ec2.png)
+
+#### The proceduce of the designing and the disscution is in the final report.
+
+#### Design and Documented by
+Sisila Jayamal Senevirathna.
+Faculty of Engineering,
+University Of Jaffan.
+All Rights Reserved!
+
